@@ -1,6 +1,6 @@
 # Desafio-Integracao
 
-Realizar o cadastro e consulta de usuários gravando em um banco de dados MySQL, Gravar e ler no formato .XML e logo após realizar a persistencia desses dados em um banco de dados PostgreSQL
+Realizar o cadastro e consulta de usuários gravando em um banco de dados MySQL, o endereço deve ser obtido consultando a api dos correios, gravar e ler no formato .XML e logo após realizar a persistencia desses dados em um banco de dados PostgreSQL
 
 
 ```shell
