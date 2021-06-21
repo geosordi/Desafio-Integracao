@@ -9,4 +9,5 @@ Realizar a criação do banco de dados PostgreSQL manualmente com o nome desafio
 
 O banco de dados MySQL está sendo criado automaticamente.
 A pasta com os arquivos .XML é criada automaticamente caso não exista em "C:/Desafio"
+Executar pelo arquivo "DesafioApplication.java"
 ```
